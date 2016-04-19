@@ -1,7 +1,7 @@
 name: Ladurner
 favicon: null
-layout_spectrum: 0.9179358712863177
-typography_spectrum: 0.3196193177718669
+layout_spectrum: 0
+typography_spectrum: 0.35393
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.83157819067128
-  lightness: 0.357879743212834
-  saturation: 0.7986672332044691
-  rhythmicContrast: 0.9432723978534341
+    - '#ffffff'
+    - '#063c7f'
+    - '#b60d20'
+    - '#7191b7'
+    - '#cd5965'
+  brandStrength: 0.875
+  lightness: 0.4375
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
