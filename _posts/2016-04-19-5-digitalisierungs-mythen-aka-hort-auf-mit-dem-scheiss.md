@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ' Wenn Unternehmer auf das setzen, was landläufig als „die Digitalisierung“ bezeichnet wird, hören sie eine Menge gutgemeinter Ratschläge. Einige davon sind aber blanker Unsinn – Bullshit würde der bereits digitalisierte Socialmedia-Manager das nennen!'
-datePublished: '2016-04-19T15:22:34.187Z'
-dateModified: '2016-04-19T15:22:26.962Z'
+description: 'Wenn Unternehmer auf das setzen, was landläufig als „die Digitalisierung“ bezeichnet wird, hören sie eine Menge gutgemeinter Ratschläge.Einige davon sind aber blanker Unsinn – Bullshit würde der bereits digitalisierte Socialmedia-Manager das nennen!'
+datePublished: '2016-04-19T15:26:41.726Z'
+dateModified: '2016-04-19T15:22:40.472Z'
 title: '5 Digitalisierungs-Mythen aka "Hört auf mit dem Scheiß!"'
 author: []
+sourcePath: _posts/2016-04-19-5-digitalisierungs-mythen-aka-hort-auf-mit-dem-scheiss.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-5-digitalisierungs-mythen-aka-hort-auf-mit-dem-scheiss.md
-published: true
 url: 5-digitalisierungs-mythen-aka-hort-auf-mit-dem-scheiss/index.html
 _type: Article
 
@@ -35,11 +35,7 @@ _****_
 
 **Mythos 1: Digital Business hat nichts mit der alten Geschäftswelt zu tun**
 
-Dies ist naturgemäß die 
-Lieblingsweisheit aller digitalen Beratungsbuden und 
-Socialmedia-Zauberer und natürlich die unantastbare Aussage bei allen -- 
-wirklich allen
--- Innovationsgipfeltreffen der Branche.
+Dies ist naturgemäß die Lieblingsweisheit aller digitalen Beratungsbuden und Socialmedia-Zauberer und natürlich die unantastbare Aussage bei allen -- wirklich allen -- Innovationsgipfeltreffen der Branche.
 
 Denn die Illusion, dass man eine völlig neue Art der Ökonomie betritt ist sozusagen Grundvoraussetzung für deren Geschäftsmodell! Dabei geht's auch in der „New Economy" im Grunde nur darum, was die Kunden des Unternehmers wollen und wie ich es als Unternehmer schaffe, Kunden für mein Produkt zu interessieren. Wenn ich das nicht schaffe, ist es grundsätzlich egal ob ich ein „dotcom" oder ein altmodischer Handwerksbetrieb bin. Denn dann bin ich so oder so ganz schnell weg vom Fenster. Was dagegen stimmt ist, dass es einige New Player geschafft haben, eben dieses Kundenbedürfnis wieder mehr in den Focus zu rücken, und damit alteingesessene Betriebe in Bedrängnis brachten. Das heißt aber nur, dass einige der Etablierten aus dem Blick verloren haben, womit sie ursprünglich groß wurden!
 
@@ -53,17 +49,7 @@ Stoppt also die Kinderarbeit -- ein Hoodie, Hornbrille und Vollbart sind modisch
 
 **Mythos 3: Mehr Digital ist gleich mehr Geld**
 
-Der möglicherweise größte Irrtum, dem
-Unternehmer aufsitzen ist, dass schnellere Rechner, eine App und eine 
-Homepage den Umsatz ankurbeln. Das stimmt allerdings nur
-bedingt -- denn was all diese Möglichkeiten in Wirklichkeit bedeuten 
-ist folgendes: Alle Informationen über Produkte, Preise und Qualität 
-sind praktisch rund um die Uhr und von überall abrufbar.
-Man kann sich also nicht mehr auf ein Informationsdefizit oder die 
-Markentreue des Kunden verlassen. Sondern man ist gezwungen, sich auf 
-die Kernwerte des eigenen Unternehmens zu konzentrieren
-und das nach außen, zum Kunden zu tragen -- eigentlich nichts 
-wirklich neues (siehe Mythos 1).
+Der möglicherweise größte Irrtum, dem Unternehmer aufsitzen ist, dass schnellere Rechner, eine App und eine Homepage den Umsatz ankurbeln. Das stimmt allerdings nur bedingt -- denn was all diese Möglichkeiten in Wirklichkeit bedeuten ist folgendes: Alle Informationen über Produkte, Preise und Qualität sind praktisch rund um die Uhr und von überall abrufbar. Man kann sich also nicht mehr auf ein Informationsdefizit oder die Markentreue des Kunden verlassen. Sondern man ist gezwungen, sich auf die Kernwerte des eigenen Unternehmens zu konzentrieren und das nach außen, zum Kunden zu tragen -- eigentlich nichts wirklich neues (siehe Mythos 1).
 
 ****
 
