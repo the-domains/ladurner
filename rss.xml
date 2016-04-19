@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ladurner]]></title>
         <description><![CDATA[Ladurner]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ladurner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 15:22:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 15:27:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ladurner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[5 Digitalisierungs-Mythen aka "Hört auf mit dem Scheiß!"]]></title>
             <description><![CDATA[<article><h1>5 Digitalisierungs-Mythen aka "Hört auf mit dem Scheiß!"</h1><p>Wenn Unternehmer auf das setzen, was landläufig als „die Digitalisierung“ bezeichnet wird, hören sie eine Menge gutgemeinter Ratschläge.Einige davon sind aber blanker Unsinn – Bullshit würde der bereits digitalisierte Socialmedia-Manager das nennen!</p></article>]]></description>
-            <link>undefined5-digitalisierungs-mythen-aka-hort-auf-mit-dem-scheiss/index.html</link>
+            <link>https://thegrid.ai/ladurner/5-digitalisierungs-mythen-aka-hort-auf-mit-dem-scheiss/index.html</link>
             <guid isPermaLink="false">a5e7258a-c19f-4d1e-8b24-53277574bdf8</guid>
-            <pubDate>Tue, 19 Apr 2016 15:22:34 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 15:26:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
