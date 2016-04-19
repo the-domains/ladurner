@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Wenn Unternehmer auf das setzen, was landläufig als „die Digitalisierung“ bezeichnet wird, hören sie eine Menge gutgemeinter Ratschläge.Einige davon sind aber blanker Unsinn – Bullshit würde der bereits digitalisierte Socialmedia-Manager das nennen!'
-datePublished: '2016-04-19T15:26:41.726Z'
-dateModified: '2016-04-19T15:22:40.472Z'
+datePublished: '2016-04-19T15:32:52.552Z'
+dateModified: '2016-04-19T15:26:48.341Z'
 title: '5 Digitalisierungs-Mythen aka "Hört auf mit dem Scheiß!"'
 author: []
 sourcePath: _posts/2016-04-19-5-digitalisierungs-mythen-aka-hort-auf-mit-dem-scheiss.md
